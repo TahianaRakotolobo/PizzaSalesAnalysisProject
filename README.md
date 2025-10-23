@@ -20,3 +20,8 @@ We also would like to visualise various aspects of the sales data to gain insigh
 - Percentage of sales by Pizza category
 - Top 5 Best sellers by revenue, total quantity and number of orders
 - Top 5 Worst sellers by revenue, total quantity and number of orders
+
+## Software used
+- Microsoft Excel
+- Porstgresql
+- PowerBI
